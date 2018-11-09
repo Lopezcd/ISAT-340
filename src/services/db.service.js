@@ -13,6 +13,7 @@ const db = knex({
 });
 
 // create your schema
+// unnecessary?
 // db.schema.createTable("courses", tbl => {
 //   tbl.string("code");
 //   tbl.string("title");

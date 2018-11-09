@@ -9,7 +9,7 @@ const db = knex({
   connection: {
     filename: "../httc.sqlite3"
   },
-  debut: true
+  debug: true
 });
 
 // create your schema

@@ -10,9 +10,11 @@
   },
   "dependencies": {
     "@feathersjs/client": "^3.7.5",
+    "axios": "^0.18.0",
     "feathers-knex": "^4.0.0",
     "knex": "^0.15.2",
     "material-design-icons-iconfont": "^3.0.3",
+    "mssql": "^4.2.3",
     "register-service-worker": "^1.0.0",
     "roboto-fontface": "*",
     "sqlite": "^3.0.0",

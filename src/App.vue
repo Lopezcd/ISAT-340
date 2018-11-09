@@ -23,7 +23,7 @@
 </template>
 
 <script>
-
+import { courses } from "@/services/db.service";
 export default {
   name: 'App',
   data () {
